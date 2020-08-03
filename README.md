@@ -16,3 +16,5 @@ netlify login
 netlify --version
 netlify status
 netlify deploy  / ntl deploy
+
+[![Deploy to Netlify] (https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ammanath/netlify-git-drop-site-master)
